@@ -23,7 +23,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
--
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -38,6 +38,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </div>
+
+
+
 
 :mailbox:How to reach me:
 
