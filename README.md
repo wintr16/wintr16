@@ -27,6 +27,17 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 ### :hammer_and_wrench: Languages and Tools :
+
+<ul>
+  <li><strong>Основные языки:</strong> HTML, CSS, SCSS/SASS, JavaScript (ES6+), TypeScript</li>
+  <li><strong>Фреймворки и библиотеки:</strong> React, Next.js, Redux, Redux Toolkit, React-hook-form, react-query</li>
+  <li><strong>Инструменты стилизации:</strong> Tailwind CSS</li>
+  <li><strong>Дополнительно:</strong> Nodejs, express API, оптимизация производительности</li>
+</ul>
+
+
+
+
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
