@@ -23,6 +23,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
+-
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
