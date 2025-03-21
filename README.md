@@ -23,8 +23,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
-- :mailbox:How to reach me:
-- 
+:mailbox:How to reach me:
+
 <ul>
   <li><a href="mailto:wintrforwork@gmail.com">Email</a></li>
   <li><a href="https://t.me/flawlessov">Telegram</a></li>
