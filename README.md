@@ -39,9 +39,9 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 </div>
 
-
-
-
+-
+-
+-
 :mailbox:How to reach me:
 
 <ul>
