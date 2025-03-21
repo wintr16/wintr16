@@ -29,10 +29,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :hammer_and_wrench: Languages and Tools :
 
 <ul>
-  <li><strong>Основные языки:</strong> HTML, CSS, SCSS/SASS, JavaScript (ES6+), TypeScript</li>
-  <li><strong>Фреймворки и библиотеки:</strong> React, Next.js, Redux, Redux Toolkit, React-hook-form, react-query</li>
-  <li><strong>Инструменты стилизации:</strong> Tailwind CSS</li>
-  <li><strong>Дополнительно:</strong> Nodejs, express API, оптимизация производительности</li>
+  <li><strong>Main languages:</strong> HTML, CSS, SCSS/SASS, JavaScript (ES6+), TypeScript</li>
+  <li><strong>Frameworks and libraries:</strong> React, Next.js, Redux, Redux Toolkit, React-hook-form, react-query</li>
+  <li><strong>Styling tools:</strong> Tailwind CSS</li>
+  <li><strong>Additional skills:</strong> Node.js, Express API, Performance optimization</li>
 </ul>
 
 
