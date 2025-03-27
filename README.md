@@ -30,7 +30,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <ul>
   <li><strong>Main languages:</strong> HTML, CSS, SCSS/SASS, JavaScript (ES6+), TypeScript</li>
-  <li><strong>Frameworks and libraries:</strong> React, Next.js, Redux, Redux Toolkit, React-hook-form, react-query</li>
+  <li><strong>Frameworks and libraries:</strong> React, Next.js, Redux, Redux Toolkit, React-hook-form, react-query, Zustand</li>
   <li><strong>Styling tools:</strong> Tailwind CSS</li>
   <li><strong>Additional skills:</strong> Node.js, Express API, Performance optimization</li>
 </ul>
